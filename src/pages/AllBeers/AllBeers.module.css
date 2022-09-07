@@ -1,0 +1,21 @@
+.all{
+    margin-top: 10vh;
+}
+
+.beerItem{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15vh;
+}
+
+.img{
+    width: 50%;
+}
+
+.button{
+    background-color: #FFCA41;
+    padding: 8% 16%;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}

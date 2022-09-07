@@ -1,0 +1,32 @@
+.homesection p{
+    font-size: 1.2em;
+    font-weight: 700;
+}
+
+.imgContainer{
+    background-image: url("../../img/allBeers.png");
+    width: 90vw;
+    height: 200px;
+    background-position: top;
+    position: relative;
+}
+
+.heading{
+    margin: -1% 0 0 0;
+    padding: 0;
+    background-color: #FFCA41;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    font-size: 1.4em;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.homesection img{
+    margin: 0;
+    padding: 0;
+}

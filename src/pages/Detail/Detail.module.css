@@ -1,0 +1,21 @@
+.button{
+    color: white;
+    font-size: 1.4em;
+    border-radius: 50%;
+    border: none;
+    background-image: url("../../img/Back.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    box-shadow: none;
+    margin-bottom: 10vh;                    /*weil es sonst komisch aussieht*/
+}
+
+.firstBrewed{
+    display: flex;
+    justify-content: space-between;
+}
+.Attenuation{
+    display: flex;
+    justify-content: space-between;
+}
